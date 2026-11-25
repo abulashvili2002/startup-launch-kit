@@ -11,17 +11,17 @@ export const site: SiteConfig = {
   // ----------------------------------------------------------
   //  EDIT: basics. Start here (Level 1, Part B).
   // ----------------------------------------------------------
-  name: "Plovify",
-  tagline: "Plov as a Service",
+  name: "Tech Hub Georgia",
+  tagline: "Make IT",
   description:
-    "Plovify brings hot, fresh plov to every table, from a family dinner to a wedding for 800 guests. Replace this text with one or two sentences about the problem your startup solves and who it is for.",
-  accentColor: "#e8630a", // your brand colour as a hex code, e.g. "#2563eb" (blue)
-  contactEmail: "hello@plovify.example",
+    "We are a technology startup focused on developing innovative, scalable, and secure software solutions that simplify complex business challenges. Our mission is to transform ideas into impactful digital products through modern technologies, intelligent automation, and exceptional user experiences.",
+  accentColor: "#9D00FF", // your brand colour as a hex code, e.g. "#2563eb" (blue)
+  contactEmail: "techhubgeo.info@gmail.com",
 
   // Building your own startup? Set this to false.
   // (It hides the Plovify menu, numbers, FAQ and sample blog posts,
   //  and uses neutral texts about YOUR startup instead.)
-  showPlovifyExamples: true,
+  showPlovifyExamples: false,
 
   // ----------------------------------------------------------
   //  OPTIONAL: more sections. Edit them later if you like.
